@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+        <style>
+            
+            h1{
+                color:olive;
+            }
+            h2{
+                color:brown;
+            }
+            
+            .La{
+                color:red;
+            }
+            .by{
+                color:red;
+            }
+            body{
+                background-color:rgb(219, 212, 219);
+            }
+        </style>
+    </head>
+    <body>
+    
+        <h1>Travel to Barcelona!!!</h1>
+        
+        <h2>You must see Santa Maria Del </h2>
+        
+        <h3>General information</h3>
+        
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Barcelona%2C_Esgl%C3%A9sia_de_Santa_Maria_del_Mar-PM_06419.jpg/800px-Barcelona%2C_Esgl%C3%A9sia_de_Santa_Maria_del_Mar-PM_06419.jpg" width="150" alt="Santa Maria Del">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Church_of_Santa_Maria_del_Mar.jpg/1024px-Church_of_Santa_Maria_del_Mar.jpg" width="175">
+        
+        
+        
+        
+        
+        <p>It is an important church in <em>Barcelona</em>.This building was build between 1329 and 1383.If you go to Barcelona <strong>you should see this building</strong>.</p>
+        
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Santa_Mar%C3%ADa_del_Mar.jpg/800px-Santa_Mar%C3%ADa_del_Mar.jpg" width="175">
+        
+        <h3>In popular culture</h3>
+        <ul>
+            <li>The construction of Santa Maria del Mar is the background for the best-selling novel <strong class="La">La catedral del mar</strong> <em>(Cathedral of the Sea)</em>, by<strong class="by"> Ildefonso Falcones (2006)</strong> which was subsequently adapted into a Netflix series in 2018</li>
+            <li>
+                <strong class="La">The Corpus Christi Procession Leaving the Church of Santa Maria del Mar</strong> by<strong class="by"> Ramon Casas</strong>
+            </li>
+        </ul>
+        
+        
+        
+        
+        
+        
+    </body>
+</html>
